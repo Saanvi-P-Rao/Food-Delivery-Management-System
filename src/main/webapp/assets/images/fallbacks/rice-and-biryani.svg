@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF8F2"/>
+      <stop offset="100%" stop-color="#FFEDD5"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="250" fill="url(#bg)"/>
+  <circle cx="200" cy="112" r="68" fill="#FFFFFF" opacity="0.82"/>
+  <path d="M148 112 Q148 152 200 152 Q252 152 252 112 Z" fill="#F59E0B" stroke="#B45309" stroke-width="3"/><path d="M154 112 Q200 76 246 112 Z" fill="#FEF3C7" stroke="#D97706" stroke-width="2"/><circle cx="186" cy="100" r="4" fill="#E23744"/><circle cx="204" cy="94" r="4" fill="#16A34A"/><circle cx="218" cy="102" r="4" fill="#B45309"/>
+  <rect x="115" y="172" width="170" height="28" rx="14" fill="#D97706" opacity="0.12"/>
+  <text x="200" y="191" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#D97706">Rice & Biryani</text>
+  <text x="200" y="220" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#78716C">Category Fallback Image</text>
+</svg>
