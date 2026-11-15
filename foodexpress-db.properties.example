@@ -1,0 +1,18 @@
+# Place a copy of this file at:
+#   C:\apache-tomcat-10.1.61\conf\foodexpress-db.properties
+# OR at:
+#   %USERPROFILE%\.foodexpress-db.properties
+# Do NOT commit real passwords to Git.
+
+db.host=localhost
+db.port=3306
+db.name=food_delivery_db
+db.user=root
+db.password=YOUR_MYSQL_PASSWORD_HERE
+
+# Optional dedicated SQL Console account
+sql.console.user=
+sql.console.password=
+
+# Disposable sandbox database
+db.sandbox=food_delivery_sandbox
