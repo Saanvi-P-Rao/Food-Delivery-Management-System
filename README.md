@@ -55,7 +55,7 @@ All queries execute against the actual MySQL database through JDBC, subject to c
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/Saanvi-P-Rao/Food_Delivery_mgmt_system.git
+https://github.com/Saanvi-P-Rao/Food-Delivery-Management-System.git
 ```
 
 **2. Create the database**
